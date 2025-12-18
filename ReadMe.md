@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student @ UniBo | Passionate about Cyber Security, Linux & Operating Systems | Exploring networks, software, and open source projects
+Computer Science student @ UniBo | Passionate about Motorsport, Linux & Operating Systems/Embedded Software
 
 
 ## 🌐 Socials:
