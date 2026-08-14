@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Student @ UniBo | Passionate about Motorsport, AI , Embedded Systems & Data Analysis 💻🏁
+Computer Science Student @ UniBo | Passionate about Motorsport, IoT , Embedded Systems, Data Analysis and, mostly, Cybersecurity 💻🏁
 
 
 ## 🌐 Socials:
